@@ -8,6 +8,8 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 JATE is a browser-based Progressive Web Application (PWA) that can run offline and be installed onto your local machine. This application incorporates various methods to ensure data persistence, allowing it to run smoothly even when certain browser functions are not supported. JATE utilizes an IndexedDB database along with the idb package. To access the production version of this application, please refer to the accompanying documentation as it is deployed on Heroku.
 
+![01-manifest](https://github.com/EGARRISXN/pwa-text-editor/assets/126130230/156c1269-9b76-4143-b1ef-162e79e5b4af)
+
 ## Table of Contents
 
 - [Technologies](#technologies)
