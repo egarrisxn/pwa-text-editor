@@ -2,7 +2,7 @@
   "name": "pwa-text-editor",
   "version": "1.0.0",
   "description": "An offline text editor",
-  "author": "Ethan Garrison",
+  "author": "Ethan G",
   "license": "MIT",
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run dev\" ",

@@ -22,15 +22,17 @@ JATE is a browser-based Progressive Web Application (PWA) that can run offline a
 
 1. Javascript
 2. Node.js
-3. Express.js
+3. Express
 4. IndexedDB
 5. Concurrently
 
 ## Installation
 
-1. Clone repository onto local machine
-2. Install dependencies `npm install`
-3. Start server in terminal `npm start`
+_I personally used npm, but if you chose to use pnpm or yarn, you'll need to update your package.jsons to reflect them._
+
+1. Clone this repository to your local machine.
+2. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
+3. Inside your terminal, run `npm install`, `pnpm install`, or `yarn install`.
 
 ## Acknowledgements
 
