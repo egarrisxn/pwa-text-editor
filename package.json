@@ -1,7 +1,7 @@
 {
   "name": "pwa-text-editor",
   "version": "1.0.0",
-  "description": "An offline text editor",
+  "description": "A progressive web application text editor.",
   "author": "Ethan G",
   "license": "MIT",
   "scripts": {
@@ -13,13 +13,14 @@
     "client": "cd client && npm start"
   },
   "keywords": [
+    "indexeddb",
     "express",
-    "node.js",
+    "nodejs",
+    "webpack",
     "concurrently",
     "javascript",
     "pwa",
-    "text",
-    "editor"
+    "text-editor"
   ],
   "dependencies": {
     "express": "^4.17.1",
