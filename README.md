@@ -17,7 +17,7 @@ This is a browser-based Progressive Web Application (PWA) that can run offline a
 - **Node.js**
 - **Webpack**
 - **Concurrently**
-- **Javascript**
+- **JavaScript**
 - **HTML5**
 - **CSS3**
 - **Heroku**
