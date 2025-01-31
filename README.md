@@ -1,6 +1,6 @@
 # PWA Text Editor
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/pwa-text-editor)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/pwa-text-editor-2023)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
